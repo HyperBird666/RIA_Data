@@ -658,5 +658,17 @@
         "distance": -1
       }
     ]
+  },
+  {
+    "stationName": "会展中心",
+    "lines": [
+      {
+        "bureau": "H",
+        "line": "7",
+        "stationCode": 2,
+        "coord": { "x": 8000.5, "y": 68.0, "z": 9019.5 },
+        "distance": 476.0
+      }
+    ]
   }
 ]
